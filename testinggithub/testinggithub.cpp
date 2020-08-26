@@ -2,10 +2,18 @@
 //
 
 #include <iostream>
-
+#include <conio.h>
+using namespace std;
 int main()
 {
-    std::cout << "Hello there testing time!\n";
+    cout << "Hello there testing action!\n";
+    cout << "indie game developer time to go";
+
+
+    system("pause>nul");
+    return 0;
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
